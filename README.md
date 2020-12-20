@@ -7,7 +7,7 @@ Contents:
  * Understanding relation among columns by
     * Visualizing Correlation as Interactive Graphs (currently, unweighted)
     * Feature Clustering based on Correlation
- * n-grams and Keyword extraction
+ * n-grams and Keyphrase extraction
  * A Talks Recommendation Engine
  * Topic Modelling and Text Clustering
 
