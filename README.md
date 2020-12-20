@@ -12,4 +12,4 @@ Contents:
  * Topic Modelling and Text Clustering
 
 
-[Intermediate Files](https://drive.google.com/drive/folders/12eIGQVSJKbsIcSCdxCWxE-d_OB76L-Tr)
+Please find other input/intermediate files [here](https://drive.google.com/drive/folders/12eIGQVSJKbsIcSCdxCWxE-d_OB76L-Tr)
